@@ -1,0 +1,21 @@
+a=int(input("Enter the first number: "))
+b=int(input("Enter the second number: "))
+c=a+b
+print(c)
+#Addition
+c=a-b
+print(c)
+#Subtraction
+c=a*b
+print(c)
+#Multiplication
+c=a/b
+print(c)
+#Division
+c=a%b
+print(c)
+#Modulus
+c=a**b
+print(c)
+#Exponentiation
+

@@ -1,2 +1,2 @@
-a=complex(input("Enter teh number"))
+a=complex(input("Enter the number"))
 print(a)

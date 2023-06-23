@@ -1,2 +1,2 @@
-Thislist=["Apple","Guava","Watermelon","Orange"]
-print(len(Thislist))
+Thislist=["1", "5"]
+print("1" in Thislist)
